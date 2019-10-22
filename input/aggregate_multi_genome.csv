@@ -1,4 +1,4 @@
 Sample,Version,Reference,Location
-heart_1k_v3,3,mm10,tests/scCloud-test-data/input/heart_1k_v3/filtered_feature_bc_matrix.h5
-heart_1k_v2,2,mm10,tests/scCloud-test-data/input/heart_1k_v2/filtered_gene_bc_matrices_h5.h5
-pbmc_1k_protein_v3,3,GRCh38,tests/scCloud-test-data/input/pbmc_1k_protein_v3/filtered_gene_bc_matrices_h5.h5
+heart_1k_v3,3,mm10,tests/pegasus-test-data/input/heart_1k_v3/filtered_feature_bc_matrix.h5
+heart_1k_v2,2,mm10,tests/pegasus-test-data/input/heart_1k_v2/filtered_gene_bc_matrices_h5.h5
+pbmc_1k_protein_v3,3,GRCh38,tests/pegasus-test-data/input/pbmc_1k_protein_v3/filtered_gene_bc_matrices_h5.h5
