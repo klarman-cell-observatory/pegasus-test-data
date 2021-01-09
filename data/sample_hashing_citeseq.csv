@@ -1,0 +1,3 @@
+Sample,Location,Modality
+cb_cc,/tests/cb_cc_demux.zarr.zip,rna
+cb_cc,/tests/data/hashing_citeseq/cb_cite_seq.csv,citeseq
